@@ -1,0 +1,19 @@
+{
+  "name": "meal_planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mealPlan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffnamenye/Meal_Planner.git"
+  },
+  "author": "JNamenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffnamenye/Meal_Planner/issues"
+  },
+  "homepage": "https://github.com/jeffnamenye/Meal_Planner#readme"
+}
