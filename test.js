@@ -1,5 +1,8 @@
 const mealPlan = require('./mealPlan.js');
-exports.getMeal = function(getMeal) => {
-if(getMeal){
-  console.log(getMeal);
-}
+
+
+
+var arrayMeal  = [
+  {mealID: "Chicken Alfredo", ingredients: "Chicken", amount: 5, unit: "oz"}
+
+]

@@ -1,15 +1,14 @@
 const test = require('./test.js');
+var newMealArray = ['meal'];
 
-
-
-//exports my meal
-module.exports.arr = []
-module.getMeal = function('Meal ID', 'Ingrediant', 'Amount', 'Unit') {
-    return('1445asd', 'Chicken', '8', 'oz');
+// returns single meal object with an id
+module.exports = (getMeal) => {
+if(getMeal){
+  console.log(meal);
 }
 
-
-
+return getMeal;
+};
 
 
 //exports my meals
