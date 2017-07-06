@@ -1,8 +1,8 @@
 const test = require('./test.js');
-var newMealArray = ['meal'];
+var newMealArray = [];
 
 // returns single meal object with an id
-module.exports = (getMeal) => {
+module.exports.meal = (getMeal) => {
 if(getMeal){
   console.log(meal);
 }
