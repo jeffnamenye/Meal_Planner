@@ -1,8 +1,3 @@
-const mealPlan = require('./mealPlan.js');
+var mealPlan = require('./mealPlan.js')
 
-
-
-var arrayMeal  = [
-  {mealID: "Chicken Alfredo", ingredients: "Chicken", amount: 5, unit: "oz"}
-
-]
+console.log (mealPlan.meal('meal'));
